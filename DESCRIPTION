@@ -1,7 +1,7 @@
 Package: genomationData
 Title: Experimental data for showing functionalities of the genomation
         package
-Version: 0.99
+Version: 0.99.NA
 Date: 2013-10-25
 Author: Altuna Akalin, Vedran Franke
 Maintainer: Vedran Franke <vedran.franke@gmail.com>
@@ -9,5 +9,5 @@ Description: The package contains Chip Seq, Methylation and Cage data,
         downloaded from Encode
 License: GPL-3
 VignetteBuilder: knitr
-biocViews: ExperimentData, HighThroughputSequencing
+biocViews: ExperimentData, Genome, StemCell, SequencingData, ChIPSeqData, ChipOnChipData, ENCODE
 Suggests: knitr
