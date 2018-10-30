@@ -1,7 +1,7 @@
 Package: genomationData
 Title: Experimental data for showing functionalities of the genomation
         package
-Version: 1.14.0
+Version: 1.15.0
 Date: 2013-10-25
 Author: Altuna Akalin, Vedran Franke
 Maintainer: Vedran Franke <vedran.franke@gmail.com>
